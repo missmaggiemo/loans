@@ -12,7 +12,6 @@ Here is the R code to download the dataset:
 download.file("https://spark-public.s3.amazonaws.com/dataanalysis/loansData.csv", destfile="./loansData.csv", method="curl")`
 
 dateDownloaded <- date()
-
 ```
 
 The code generates several images that you may or may not find helpful. Please don't be alarmed.
